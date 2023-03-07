@@ -1,0 +1,11 @@
+#balls {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  /* background-color: #f08080; */
+}
+
+body {
+  margin: 0px;
+  height: 97.5vh;
+}
